@@ -98,7 +98,6 @@ function updateLocation() {
     });
     marker.setMap(map);
     map.setCenter(pos);
-    console.log($())
 }
 
 function createSkel() {
